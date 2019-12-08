@@ -1,5 +1,5 @@
 # AI Commons
-Homepage: [aicommons.com](wwww.aicommons.com)
+Homepage: [ai-commons.org](wwww.ai-commons.org)
 
 Wiki: [github.com/AI-Commons/wiki/wiki](https://github.com/AI-Commons/wiki/wiki)
 
